@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string-array name="cities_array">
+        <item> Минск </item>
+        <item> Гродно </item>
+        <item> Брест </item>
+        <item> Москва </item>
+        <item> Санкт-Петербург </item>
+        <item> Новосибирск </item>
+        <item> Екатеринбург </item>
+        <item> Казань </item>
+        <item> Самарканд </item>
+        <item> Нью-Йорк </item>
+        <item> Тамбов </item>
+    </string-array>
+</resources>
